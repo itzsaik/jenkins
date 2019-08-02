@@ -6,6 +6,7 @@ pipeline {
                 echo "Jenkins pipeline !"
 		echo "Jenkins pipeline !"
 		echo " Saikarthik "
+		echo " Saikarthik "
             }
         }
     }
