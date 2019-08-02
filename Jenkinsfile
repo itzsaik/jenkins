@@ -3,7 +3,8 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "Hello World!"
+                echo "Jenkins pipeline !"
+		echo "Jenkins pipeline !"
             }
         }
     }
