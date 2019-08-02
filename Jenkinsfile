@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo "Jenkins pipeline !"
 		echo "Jenkins pipeline !"
+		echo " Saikarthik "
             }
         }
     }
